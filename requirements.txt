@@ -1,0 +1,9 @@
+requirements
+
+fastapi
+uvicorn
+pydantic
+numpy
+scikit-learn
+joblib
+requests
